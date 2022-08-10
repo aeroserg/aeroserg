@@ -1,9 +1,12 @@
 # Hi, I’m _@aeroserg_
-👀 I’m interested in aviation, programming, German and English languages.  
-🌱 I’m currently learning how to be an aviation manager, but also i learn web development 
-📫 https://t.me/airserg
+👀 I’m interested in aviation, programming and frontend, German and English languages, photography. I play valleyball, tennis, basketball, doing crossfit)  
+🌱 I’m currently learning how to be an aviation manager, but also i learn web development  
+📫 Contact me:  
+- [Telegram](https://t.me/airserg)
+- [Instagram](instagram.com/aeroserg)
+- via email [1308267@gmail.com](mailto:1308267@gmail.com)
 ## My projects: ## 
-- http://tezinvest.ru
-- https://ancor-group.com/happynewyear
+- [landnig page for tomato distributor](http://tezinvest.ru)
+- [Corporate site for new year 2022](https://ancor-group.com/happynewyear)
 - power BI dashbord (via API Yandex Metrica and PQYandexMetrica)
 ## Currently I'm studuing for Bitrix developer:
