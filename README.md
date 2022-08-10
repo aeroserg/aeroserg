@@ -11,3 +11,10 @@
 - [Corporate site for new year 2022](https://ancor-group.com/happynewyear)
 - power BI dashbord (via API Yandex Metrica and PQYandexMetrica)
 ## Currently I'm studuing for Bitrix developer:
+- [x] HTML+CSS
+- [ ] JS
+- [ ] PHP
+- [ ] Bitrix framework
+- [ ] Bitrix API
+- [ ] MySQL
+- [x] PostgreSQL (basics)
