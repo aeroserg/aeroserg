@@ -12,7 +12,7 @@
 - power BI dashbord (via API Yandex Metrica and PQYandexMetrica)
 ## Currently I'm studuing for Bitrix developer:
 - [x] HTML+CSS
-- [ ] JS
+- [x] JS
 - [ ] PHP
 - [ ] Bitrix framework
 - [ ] Bitrix API
