@@ -1,4 +1,4 @@
-# Hi, I’m _@aeroserg_
+<!-- # Hi, I’m _@aeroserg_
 ## My name is Sergey Annenkov
 👀 I’m interested in aviation, programming and frontend, German and English languages, photography. I play valleyball, tennis, basketball, doing crossfit)  
 🌱 I’m currently learning aviation management, in addition i'm studying web development course
@@ -18,3 +18,4 @@
 - [ ] Bitrix API
 - [ ] MySQL
 - [x] PostgreSQL (basics)
+ -->
