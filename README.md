@@ -1,4 +1,4 @@
-<!-- # Hi, I’m _@aeroserg_
+# Hi, I’m _@aeroserg_
 ## My name is Sergey Annenkov
 👀 I’m interested in aviation, programming and frontend, German and English languages, photography. I play valleyball, tennis, basketball, doing crossfit)  
 🌱 I’m currently learning aviation management, in addition i'm studying web development course
@@ -10,12 +10,13 @@
 - [landnig page for tomato distributor](http://tezinvest.ru)
 - [Corporate site for new year 2022](https://ancor-group.com/happynewyear)
 - power BI dashbord (via API Yandex Metrica and PQYandexMetrica)
+- [more](https://aeroserg.github.io/cv)
 ## Currently I'm studuing for Bitrix developer:
 - [x] HTML+CSS
 - [x] JS
-- [ ] PHP
-- [ ] Bitrix framework
-- [ ] Bitrix API
+- [x] PHP 7.4; 8.2
+- [x] BitrixJS; Ajax; Jquery (in progress)
+- [ ] Bitrix framework (in progress)
+- [ ] Bitrix API (in progress)
 - [ ] MySQL
-- [x] PostgreSQL (basics)
- -->
+- [x] PostgreSQL
